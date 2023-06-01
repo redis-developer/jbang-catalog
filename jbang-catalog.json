@@ -1,8 +1,8 @@
 {
-  "aliases": {
-    "riot-snapshot": {
-      "script-ref": "riot_snapshot.java",
-      "description": "Get data in and out of Redis with RIOT"
+  "aliases" : {
+    "riot-snapshot" : {
+      "script-ref" : "riot_snapshot.java",
+      "description" : "Get data in and out of Redis with RIOT"
     }
   }
 }
