@@ -3,6 +3,10 @@
     "riot-snapshot" : {
       "script-ref" : "riot_snapshot.java",
       "description" : "Get data in and out of Redis with RIOT"
+    },
+    "riot" : {
+      "script-ref" : "riot.java",
+      "description" : "Get data in and out of Redis with RIOT"
     }
   }
 }
