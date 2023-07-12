@@ -2,7 +2,7 @@
 //JAVA 17+
 //REPOS jitpack
 //DEPS com.github.redis-developer.riot:riot:main-SNAPSHOT
-// Generated with JReleaser 1.8.0-SNAPSHOT at 2023-07-11T07:58:45.892593241Z
+// Generated with JReleaser 1.8.0-SNAPSHOT at 2023-07-12T00:46:20.56503907Z
 
 public class riot_snapshot {
     public static void main(String... args) throws Exception {
