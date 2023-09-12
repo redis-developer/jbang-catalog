@@ -1,8 +1,8 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
-//JAVA 17+
+//JAVA 8+
 //REPOS jitpack
 //DEPS com.github.redis-developer.riot:riot:main-SNAPSHOT
-// Generated with JReleaser 1.8.0-SNAPSHOT at 2023-08-16T16:28:47.679397331Z
+// Generated with JReleaser 1.8.0 at 2023-09-12T20:26:32.13448601Z
 
 public class riot_snapshot {
     public static void main(String... args) throws Exception {
